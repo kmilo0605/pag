@@ -1,0 +1,34 @@
+* {font-family: 
+
+}
+header{ background-color: green;
+    color: white;
+}
+nav ul i a{
+    background-color: white;
+    color: green;
+}
+#seccion1 { 
+    background-color: orange;
+    color: blue;
+}
+#seccion1.art1{ 
+    color: green;
+}
+#seccion1.art2{
+    color: gray;
+}
+#seccion1.art3{
+    color: red;
+}
+#seccion2{
+    background-color: blue;
+    color: white;
+}
+#seccion2.arti1{
+    color: black;
+}
+footer{
+    background-color: white;
+    color: violet;
+}
